@@ -1,5 +1,4 @@
 import axios from "axios";
-import "dotenv/config";
 
 // const NODE_ENV = process.env.NODE_ENV;
 const URL = "https://projeto-spotify-hyoi.onrender.com/api";

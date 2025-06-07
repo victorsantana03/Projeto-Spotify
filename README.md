@@ -1,5 +1,5 @@
 # Spotify React
-[![My Skills](https://skillicons.dev/icons?i=react,vite,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vite,css,nodejs,express,mongodb)](https://skillicons.dev)
 ![tela spotify](https://github.com/user-attachments/assets/37f07a71-8ae1-4379-b3fb-dd37197419f5)
 
 ## Tecnologias usadas:
